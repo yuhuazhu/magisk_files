@@ -2,21 +2,21 @@
   "app": {
     "version": "6.0.1-9b063856",
     "versionCode": "155",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/app-full-debug.apk",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md"
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/canary_builds/app-full-debug.apk",
+    "note": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/canary_builds/notes.md"
   },
   "magisk": {
     "version": "17.4-ceb51bb1",
     "versionCode": "17307",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-debug.zip",
-    "note": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/notes.md",
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/canary_builds/magisk-debug.zip",
+    "note": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/canary_builds/notes.md",
     "md5": "e342f6eab82d039fe88cc7d6888a65d9"
   },
   "uninstaller": {
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/canary_builds/magisk-uninstaller.zip"
   },
   "snet": {
     "versionCode": "12",
-    "link": "https://raw.githubusercontent.com/topjohnwu/magisk_files/master/snet.apk"
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/snet.apk"
   }
 }
