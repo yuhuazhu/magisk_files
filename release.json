@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "6.0.1",
+    "versionCode": "151",
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master//app-full-release.apk",
+    "note": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master//notes.md"
+  },
+  "uninstaller": {
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/magisk-uninstaller.zip"
+  },
+  "snet": {
+    "versionCode": "1",
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/snet.apk"
+  },
+  "magisk": {
+    "version": "17.3",
+    "versionCode": "17302",
+    "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/magisk-release.zip",
+    "note": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/notes.md",
+    "md5": "0f1b25d88be4fd2ac5fb53e0584bcdc2"
+  }
+}
