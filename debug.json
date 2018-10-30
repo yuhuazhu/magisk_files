@@ -14,9 +14,9 @@
   },
   "magisk": {
     "version": "17.3",
-    "versionCode": "17302",
+    "versionCode": "17303",
     "link": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/master/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/yuhuazhu/magisk_files/notes.md",
-    "md5": "fe928aeb1fdd9e3ba06c78911b71f9be"
+    "md5": "1d8078a15dee239c624b8d9c91fcef6a"
   }
 }
